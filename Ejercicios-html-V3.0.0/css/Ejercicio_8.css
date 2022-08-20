@@ -1,0 +1,28 @@
+.tit1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 1100;
+    color: blue;
+}
+
+.dat1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 1100;
+    color: lightskyblue;
+}
+
+#parr1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 1100;
+    color: blue;
+}
+
+#container{
+    width: 1024px;
+    height: 720px;
+    background-color: darkturquoise;
+    margin-left: auto;
+    margin-right: auto;
+}

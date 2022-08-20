@@ -1,0 +1,28 @@
+#tit1{
+    font-family: Verdana, Geneva, Tahoma, 'sans-serif';
+    font-size: 30px;
+    font-weight: normal;
+    color: gold;
+}
+
+#tabla1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    font-weight: normal;
+    color: goldenrod;
+}
+#parr1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25xp;
+    font-weight: 400;
+    color: goldenrod;
+
+}
+
+#container{
+    width: 1024px;
+    height: 720px;
+    background-color: darkslategray;
+    margin-left: auto;
+    margin-right: auto;
+}

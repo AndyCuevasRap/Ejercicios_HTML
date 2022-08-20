@@ -1,0 +1,36 @@
+#tit1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: 1100;
+    color: black;
+
+}
+
+.tit2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: black;
+}
+
+.dis1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 750;
+    color: black;
+}
+
+#parr1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 1100;
+    color: black;
+}
+
+#container{
+    width: 1024px;
+    height: 500px;
+    background-color: lightsteelblue;
+    margin-left: auto;
+    margin-right: auto;
+}

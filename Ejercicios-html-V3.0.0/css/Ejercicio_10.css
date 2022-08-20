@@ -1,0 +1,29 @@
+.tab1{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 1000;
+    color: darkgrey;
+}
+
+#parr1{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    color: darkgrey;
+
+}
+
+#tit1{
+    font: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    color: darkgray;
+}
+
+#container{
+    width: 1024px;
+    height: 400px;
+    background-color: pink;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,27 @@
+#tit1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: sienna;
+}
+
+#tab1{
+    font-family: monospace;
+    font-weight: 700;
+    font-size: 20px;
+    color: saddlebrown;
+}
+#parr1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    color: brown;
+}
+
+#container{
+    width: 1024px;
+    height: 720;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,21 @@
+#tit1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: goldenrod;
+}
+.tab1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: goldenrod;
+}
+
+#container{
+    width: 1200;
+    height: 1500px;
+    background-color: lightcyan;
+    margin-left: auto;
+    margin-right: auto;
+    
+}

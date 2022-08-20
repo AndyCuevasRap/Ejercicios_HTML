@@ -1,0 +1,26 @@
+.tab1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: 20px;
+    color: darkorchid;
+}
+#parr1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: violet;
+}
+#tit1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: purple;
+}
+
+#container{
+    height: 1540px;
+    width: 1024px;
+    background-color: violet;
+    margin-left: auto;
+    margin-right: auto;
+}

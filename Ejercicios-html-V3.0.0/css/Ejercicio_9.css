@@ -1,0 +1,28 @@
+.tit1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 1100;
+    color: red;
+}
+
+.dis1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: 700;
+    color: brown;
+}
+
+#parr1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    color: crimson;
+}
+
+#container{
+    width: 1024px;
+    height: 1100px;
+    background-color: lightpink;
+    margin-left: auto;
+    margin-right: auto;
+}

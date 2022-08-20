@@ -1,0 +1,35 @@
+#tit1{
+    font-family:cursive;
+    font-weight: normal;
+    font-size: 40px;
+    color:brown;
+
+}
+
+.dis1{
+    font-family: 'Geneva', segoe UI, Tahoma,  Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    color: darkred;
+}
+
+#parr1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20xp;
+    color: darkred;
+}
+
+#parr2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 20xp;
+    color:darkred;
+}
+#container{
+    width: 1024px;
+    height: 500px;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}
