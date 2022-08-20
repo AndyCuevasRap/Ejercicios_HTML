@@ -1,0 +1,98 @@
+#tit1 {
+    font-family: monospace;
+    color: #ffffff;
+    font-size: bold;
+}
+
+.dis1 {
+    font-family: monospace;
+    font-weight: medium;
+    color: #ffffff;
+}
+
+.dis2 {
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: medium;
+    color: #ffffff;
+}
+
+#container {
+    width: 2000px;
+    height: 800px;
+    background-color: #d9c6b0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 1000px;
+    height: 1000px;
+    background-color: #F2D5BB;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    width: 1000px;
+    height: 200px;
+    background-color:#4dacc4;
+}
+
+#enc {
+    position: relative;
+    left: 405px;
+    top: 60px;
+    font-family: monospace;
+    font-size: 40px;
+    color: #050505; 
+}
+
+#nav {
+    width: 1000px;
+    height: 100px;
+    background-color: #184a86;
+}
+
+#men {
+    position: relative;
+    left: 430px;
+    top: 30px;
+    font-family: monospace;
+    font-size: 30px;
+    color: #aeebea;
+}
+
+#main {
+    width: 1000px;
+    height: 700px;
+    background-color: #083632;
+}
+
+#cue {
+    position: relative;
+    left: 440px;
+    top: 405px;
+    font-family: monospace;
+    font-size: 40px;
+    color:#0c0005;
+}
+
+#footer {
+    width: 1000px;
+    height: 70px;
+    background-color: #465f75;
+}
+
+#pie {
+    position: relative;
+    left: 450px;
+    top: 8px;
+    font-family: monospace;
+    color: #c2d1d3;
+}

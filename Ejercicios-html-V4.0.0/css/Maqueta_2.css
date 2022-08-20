@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 1024px;
+    height: 400px;
+    background-color: pink;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    width: 1024px;
+    height: 100px;
+    background-color: #7ec777;
+}
+
+#enc {
+    position: relative;
+    left: 350px;
+    top: 30px;
+    font-family: monospace;
+    font-size: 30px;
+    color: black;
+}
+
+#nav {
+    width: 1024px;
+    height: 50px;
+    background-color: coral;
+}
+
+#men {
+    position: relative;
+    left: 460px;
+    top: 10px;
+    font-family: monospace;
+    font-size: 30px;
+    color: white;
+}
+
+#main {
+    width: 1024px;
+    height: 500px;
+    background-color: #7ec777;
+}
+
+#cue {
+    position: relative;
+    left: 0px;
+    top: 0px;
+    font-family: monospace;
+    font-size: 25px;
+    color: black;
+}
+
+#footer {
+    width: 1024px;
+    height: 70px;
+    background-color: coral;
+}
+
+#pie {
+    position: relative;
+    left: 280px;
+    top: 8px;
+    font-family: monospace;
+    color: white;
+}

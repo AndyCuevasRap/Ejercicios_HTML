@@ -1,0 +1,89 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+#tit1 {
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+    font-size: 28px;
+}
+#tit2 {
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+    font-size: 28px;
+}
+.dis1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    color:white;
+    font-weight: larger;
+}
+
+
+#container{
+    width: 1024px;
+    height: 950px;
+    background-color: lemonchiffon;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    width: 1024px;
+    height: 100px;
+    background-color: #4b2280;
+}
+
+#enc {
+    position: relative;
+    left: 424px;
+    top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+}
+
+#nav {
+    width: 1024px;
+    height: 50px;
+    background-color: #2f9dc9;
+}
+
+#men {
+    position: relative;
+    left: 460px;
+    top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+}
+
+#main {
+    width: 1024px;
+    height: 850px;
+    background-color: #4b2280;
+}
+
+#cue {
+    position: relative;
+    left: 10px;
+    top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+}
+
+#footer {
+    width: 1024px;
+    height: 70px;
+    background-color: #2f9dc9;
+}
+
+#pie {
+    position: relative;
+    left: 280px;
+    top: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
