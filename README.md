@@ -1,4 +1,4 @@
-# Ejercicios_html #
+# Quince-paginas-HTML #
 
 ## Ejercicios html versión 1.0.0. ##
 Se crean 15 documentos en versión html 1 con un glosario de palabras desconocidas con sus significados profundizados, los ejercicios se encontrarán en la carpeta con el nombre "Ejercicios-html-V.1.0.0", Validado por W3C.
